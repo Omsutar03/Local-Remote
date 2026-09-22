@@ -1,4 +1,4 @@
-# Local Remote
+# Local-Remote
 ## Overview
 Local Remote is open-source application built in Python, designed to provide an easy and efficient way to share your screen with others on local network and give remote access in real-time. **The advantage of Local Remote is that only the host machine need to install application, other can access the screen by simply entering host machine's IP on browser with specified port (default: 756)**. The application is ideal for remote collaboration, presentations, or troubleshooting.
 
